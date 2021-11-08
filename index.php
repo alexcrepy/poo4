@@ -2,7 +2,7 @@
 
 require_once 'Car.php';
 
-$car = new Car('green', 4, 'electric');
+$car = new Car('yellow', 4, 'electric');
 
 // Test sans le frein à main mis au départ
 
